@@ -10,3 +10,4 @@ find_package(Qt5 COMPONENTS Widgets REQUIRED)
 add_executable(StudentDBApp main.cpp)
 
 target_link_libraries(StudentDBApp Qt5::Widgets)
+
